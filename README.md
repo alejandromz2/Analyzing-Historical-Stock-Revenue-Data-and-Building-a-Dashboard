@@ -38,10 +38,10 @@ Finally, i used tail method to saw the last 5 rows in the table
 
 ![image](https://github.com/alejandromz2/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/assets/30611516/b65cf3ee-6294-4166-b56f-66e77e3b5961)
 
-Question 5: Plot Tesla Stock Graph
+### Question 5: Plot Tesla Stock Graph
 
 ![image](https://github.com/alejandromz2/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/assets/30611516/a0154d77-f910-493c-b653-5211878b0b5c)
 
-Question 6: Plot GameStop Stock Graph
+### Question 6: Plot GameStop Stock Graph
 
 ![image](https://github.com/alejandromz2/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/assets/30611516/89318f1a-3f6e-407d-8ba2-bcb9a2ee7468)
