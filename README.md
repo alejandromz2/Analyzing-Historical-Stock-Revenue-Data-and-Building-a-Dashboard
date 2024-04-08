@@ -35,5 +35,7 @@ Using requests.get, i downloaded the webpage https://cf-courses-data.s3.us.cloud
 
 
 Finally, i used tail method to saw the last 5 rows in the table
-![image](https://github.com/alejandromz2/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/assets/30611516/1f0cbb1a-46b4-463d-ba1e-2c6d4fde8184)
+
+![image](https://github.com/alejandromz2/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/assets/30611516/b65cf3ee-6294-4166-b56f-66e77e3b5961)
+
 
