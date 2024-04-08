@@ -1,5 +1,5 @@
-# Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard
-This lab forms part of the course Python Project for Data Science
+# Analyzing Historical Stock Revenue Data and Building a Dashboard
+This lab forms part of the course Python Project for Data Science from IBM 
 
 ### Question 1: Use yfinance to Extrack Stock Data
 Using the Ticker function, i extracted the data from Tesla. 
