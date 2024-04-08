@@ -20,3 +20,11 @@ I extracted the data from the website and i changed the column names to Date and
 
 
 ### Question 3. Use yfinance to Extract Stock Data
+
+Use the Ticker function to create an objet from GameStop, them i used history to extract stock information and save it with the name of gme_data.
+
+![image](https://github.com/alejandromz2/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/assets/30611516/c5f59245-9a09-42b5-b0b3-77fc1120db03)
+
+### Question 4: Use Webscraping to Extract GME Revenue Data
+
+Using requests.get, i downloaded the webpage https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/stock.html. Save the text of the response as a variable named html_data.
