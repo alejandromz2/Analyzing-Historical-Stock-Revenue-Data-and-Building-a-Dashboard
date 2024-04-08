@@ -27,4 +27,12 @@ Use the Ticker function to create an objet from GameStop, them i used history to
 
 ### Question 4: Use Webscraping to Extract GME Revenue Data
 
-Using requests.get, i downloaded the webpage https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/stock.html. Save the text of the response as a variable named html_data.
+Using requests.get, i downloaded the webpage https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/stock.html. Save the text of the response as a variable named html_data. Next, i use the soup function to parser the data and pandas to create a dataframe with this data. 
+
+![image](https://github.com/alejandromz2/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/assets/30611516/0a8249ad-96e0-4890-8632-2b83c653e8d0)
+
+![image](https://github.com/alejandromz2/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/assets/30611516/7ed20629-468e-43b3-bf80-fd2eaba4db17)
+
+Finally, i used tail method to saw the last 5 rows in the table
+![image](https://github.com/alejandromz2/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/assets/30611516/1f0cbb1a-46b4-463d-ba1e-2c6d4fde8184)
+
